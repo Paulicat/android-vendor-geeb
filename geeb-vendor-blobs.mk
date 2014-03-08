@@ -24,6 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb/proprietary/bin/efsks:system/bin/efsks \
     vendor/lge/geeb/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/geeb/proprietary/bin/ks:system/bin/ks \
+    vendor/lge/geeb/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/geeb/proprietary/bin/mm-audio-send-cal:system/bin/mm-audio-send-cal \
     vendor/lge/geeb/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/geeb/proprietary/bin/netmgrd:system/bin/netmgrd \
@@ -35,6 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb/proprietary/bin/radish:system/bin/radish \
     vendor/lge/geeb/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/geeb/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
+    vendor/lge/geeb/proprietary/bin/thermald:system/bin/thermald \
     vendor/lge/geeb/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/lge/geeb/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/lge/geeb/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
